@@ -10,10 +10,10 @@ The primary goal of this project is to allow users to visualize prgress in their
 
 With those in mind, the first goal is to support the following spreadsheet format.
 
-|    Exercise     | Reps | Weight | Reps | Weight | ... |
-| :-------------: | :--: | :----: | :--: | :----: | :-: |
-|   Bench Press   |  10  |  135   |  10  |  140   | ... |
-|                 |  10  |  135   |  9   |  140   | ... |
-|                 |  10  |  135   |  8   |  140   | ... |
-| [ Leave Empty ] |
-|   Bicep Curl    | ...  |  ...   | ...  |  ...   | ... |
+|  Exercise   | Reps | Weight | Reps | Weight | ... |
+| :---------: | :--: | :----: | :--: | :----: | :-: |
+| Bench Press |      |        |      |        |     |
+| Set 1 8-10  |  10  |  135   |  10  |  140   | ... |
+| Set 2 8-10  |  10  |  135   |  9   |  140   | ... |
+| Set 3 8-10  |  10  |  135   |  8   |  140   | ... |
+| Bicep Curl  | ...  |  ...   | ...  |  ...   | ... |
